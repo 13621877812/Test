@@ -14,7 +14,7 @@
 
 
 
-@implementation ICAlertTool
+@implementation ICAlertTool属性
 
 + (void)alert:(NSString *)title
 {
