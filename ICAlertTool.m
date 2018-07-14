@@ -15,7 +15,7 @@
 
 
 @implementation ICAlertTool属性
-
+jzhkzbn∫∆bjkhka  jki
 + (void)alert:(NSString *)title
 {
     UIAlertView *alert = [[UIAlertView alloc]initWithTitle:@"提示" message:title delegate:nil cancelButtonTitle:nil otherButtonTitles:nil, nil];
