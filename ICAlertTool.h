@@ -10,6 +10,8 @@
 
 @interface ICAlertTool : NSObject<UIAlertViewDelegate>
 
-+ (void)alert:(NSString *)title;
+
+
++ (void)alert:(NSString *)title;2
 +(void)ICRYAlert:(NSString*)title;
 @end
