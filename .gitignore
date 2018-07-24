@@ -26,6 +26,7 @@ xcuserdata/
 *.hmap
 *.dSYM.zip
 *.dSYM
+*.ipa
 *.m
 
 # CocoaPods
