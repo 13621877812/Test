@@ -24,6 +24,8 @@
 
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
+    
+    //的地方
     // Dispose of any resources that can be recreated.
 }
 
