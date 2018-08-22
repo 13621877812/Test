@@ -12,7 +12,7 @@ import UIKit
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
     var window: UIWindow?
-共和xxxxx国姑获鸟 
+共和国姑获鸟 
 几级了就
     后悔何及
     鞍山市
