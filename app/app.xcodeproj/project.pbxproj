@@ -13,6 +13,7 @@
 		AB1F5548212D8C77003FDB67 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AB1F5547212D8C77003FDB67 /* Assets.xcassets */; };
 		AB1F554B212D8C77003FDB67 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AB1F5549212D8C77003FDB67 /* LaunchScreen.storyboard */; };
 		AB1F554E212D8C77003FDB67 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = AB1F554D212D8C77003FDB67 /* main.m */; };
+		AB1F5556212D8DB0003FDB67 /* Controller.m in Sources */ = {isa = PBXBuildFile; fileRef = AB1F5555212D8DB0003FDB67 /* Controller.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,8 @@
 		AB1F554A212D8C77003FDB67 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		AB1F554C212D8C77003FDB67 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		AB1F554D212D8C77003FDB67 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		AB1F5554212D8DB0003FDB67 /* Controller.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Controller.h; sourceTree = "<group>"; };
+		AB1F5555212D8DB0003FDB67 /* Controller.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Controller.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +65,8 @@
 				AB1F553F212D8C71003FDB67 /* AppDelegate.m */,
 				AB1F5541212D8C71003FDB67 /* ViewController.h */,
 				AB1F5542212D8C71003FDB67 /* ViewController.m */,
+				AB1F5554212D8DB0003FDB67 /* Controller.h */,
+				AB1F5555212D8DB0003FDB67 /* Controller.m */,
 				AB1F5544212D8C71003FDB67 /* Main.storyboard */,
 				AB1F5547212D8C77003FDB67 /* Assets.xcassets */,
 				AB1F5549212D8C77003FDB67 /* LaunchScreen.storyboard */,
@@ -144,6 +149,7 @@
 				AB1F5543212D8C71003FDB67 /* ViewController.m in Sources */,
 				AB1F554E212D8C77003FDB67 /* main.m in Sources */,
 				AB1F5540212D8C71003FDB67 /* AppDelegate.m in Sources */,
+				AB1F5556212D8DB0003FDB67 /* Controller.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
