@@ -10,10 +10,6 @@
 #import <UIKit/UIKit.h>
 
 
-
-
-
-
 @implementation ICAlertTool属性
 
 + (void)alert:(NSString *)title
